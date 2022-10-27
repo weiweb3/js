@@ -1,0 +1,17 @@
+{
+  "name": "@weiweb3/tsconfig",
+  "version": "0.1.4",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "files": [
+    "base.json",
+    "node14.json",
+    "nextjs.json",
+    "react-library.json",
+    "sdk.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/weiweb3/js/tree/main/packages/tw-tsconfig"
+}
