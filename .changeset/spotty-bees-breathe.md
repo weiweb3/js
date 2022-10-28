@@ -1,5 +1,5 @@
 ---
-"@thirdweb-dev/react": patch
+"@weiweb3/react": patch
 ---
 
 expose useExecuteAuctionSale and useAcceptDirectListingOffer

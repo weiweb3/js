@@ -5,19 +5,19 @@
       "outputs": ["dist/**"],
       "dependsOn": ["^build"]
     },
-    "@thirdweb-dev/sdk#build": {
+    "@weiweb3/sdk#build": {
       "outputs": ["dist/**", "evm/**", "solana/**"],
       "dependsOn": ["^build"]
     },
-    "@thirdweb-dev/react#build": {
+    "@weiweb3/react#build": {
       "outputs": ["dist/**", "evm/**", "solana/**"],
       "dependsOn": ["^build"]
     },
-    "@thirdweb-dev/auth#build": {
+    "@weiweb3/auth#build": {
       "outputs": ["dist/**", "express/**", "next/**", "next-auth/**"],
       "dependsOn": ["^build"]
     },
-    "@thirdweb-dev/contracts-js#build": {
+    "@weiweb3/contracts-js#build": {
       "outputs": ["dist/**", "factories/**", "src/**"],
       "dependsOn": ["^build"]
     },
@@ -56,7 +56,7 @@
       "inputs": ["src/**", "fixtures/**"],
       "dependsOn": ["build"]
     },
-    "thirdweb#e2e": {
+    "weiweb3#e2e": {
       "outputs": [],
       "inputs": ["src/**", "e2e/**"],
       "dependsOn": ["build"]

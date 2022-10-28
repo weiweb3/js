@@ -4467,14 +4467,14 @@
     "@tanstack/query-core" "4.3.4"
     use-sync-external-store "^1.2.0"
 
-"@thirdweb-dev/contracts@3.1.8-0":
+"@weiweb3/contracts@3.1.8-0":
   version "3.1.8-0"
-  resolved "https://registry.yarnpkg.com/@thirdweb-dev/contracts/-/contracts-3.1.8-0.tgz#847af3fe9a53368e7be04b7b6e6afe076d3d1676"
+  resolved "https://registry.yarnpkg.com/@weiweb3/contracts/-/contracts-3.1.8-0.tgz#847af3fe9a53368e7be04b7b6e6afe076d3d1676"
   integrity sha512-PiQjdRcAUBlu3poc4g6dN9KvjTgYsA1Vi+B/IgryptCgcJeMY4cldMabKCgPaCg9dPVpUq4O+SOM00P6mBNvGw==
 
-"@thirdweb-dev/storage@*":
+"@weiweb3/storage@*":
   version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@thirdweb-dev/storage/-/storage-1.0.6.tgz#219bc15d69885421696bd3d0fb90608c2ead2836"
+  resolved "https://registry.yarnpkg.com/@weiweb3/storage/-/storage-1.0.6.tgz#219bc15d69885421696bd3d0fb90608c2ead2836"
   integrity sha512-meao2NFgzLh++9RHBO/belIbReFsxJVYoxuuj2Vt2XT6PuMHPg8zOvQsyT+FQz9cvFwvMW5RNZUTPr0gu2JlxQ==
   dependencies:
     cross-fetch "^3.1.5"

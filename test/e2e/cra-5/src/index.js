@@ -1,12 +1,12 @@
-import { ConnectWallet, ThirdwebProvider } from "@thirdweb-dev/react";
+import { ConnectWallet, weiweb3Provider } from "@weiweb3/react";
 import React from "react";
 import ReactDOM from "react-dom/client";
 
 const KitchenSink = () => {
   return (
-    <ThirdwebProvider>
+    <weiweb3Provider>
       <WrappedKitchenSink />
-    </ThirdwebProvider>
+    </weiweb3Provider>
   );
 };
 

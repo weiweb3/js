@@ -1,10 +1,10 @@
-import { ConnectWallet, ThirdwebProvider } from "@thirdweb-dev/react";
+import { ConnectWallet, weiweb3Provider } from "@weiweb3/react";
 
 export const KitchenSink = () => {
   return (
-    <ThirdwebProvider>
+    <weiweb3Provider>
       <WrappedKitchenSink />
-    </ThirdwebProvider>
+    </weiweb3Provider>
   );
 };
 

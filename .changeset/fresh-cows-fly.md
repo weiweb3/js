@@ -1,5 +1,5 @@
 ---
-"@thirdweb-dev/sdk": patch
+"@weiweb3/sdk": patch
 ---
 
 Update internal function resolveContractUriFromAddress -> resolveContractUriFromAddress
