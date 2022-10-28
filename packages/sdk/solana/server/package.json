@@ -1,0 +1,4 @@
+{
+  "main": "dist/weiweb3-sdk-solana-server.cjs.js",
+  "module": "dist/weiweb3-sdk-solana-server.esm.js"
+}
