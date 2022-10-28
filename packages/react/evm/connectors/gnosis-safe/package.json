@@ -1,0 +1,4 @@
+{
+  "main": "dist/weiweb3-react-evm-connectors-gnosis-safe.cjs.js",
+  "module": "dist/weiweb3-react-evm-connectors-gnosis-safe.esm.js"
+}

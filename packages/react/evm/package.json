@@ -1,0 +1,4 @@
+{
+  "main": "dist/weiweb3-react-evm.cjs.js",
+  "module": "dist/weiweb3-react-evm.esm.js"
+}
