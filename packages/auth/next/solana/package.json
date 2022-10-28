@@ -1,0 +1,4 @@
+{
+  "main": "dist/weiweb3-auth-next-solana.cjs.js",
+  "module": "dist/weiweb3-auth-next-solana.esm.js"
+}
