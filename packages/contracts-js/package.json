@@ -1,6 +1,6 @@
 {
   "name": "@weiweb3/contracts-js",
-  "version": "1.1.10",
+  "version": "1.1.12",
   "main": "dist/weiweb3-contracts-js.cjs.js",
   "module": "dist/weiweb3-contracts-js.esm.js",
   "license": "Apache-2.0",
