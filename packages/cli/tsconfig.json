@@ -1,0 +1,8 @@
+{
+  "extends": "@weiweb3/tsconfig/sdk.json",
+  "include": ["src"],
+  "exclude": ["dist", "build", "node_modules"],
+  "compilerOptions": {
+    "allowJs": true
+  }
+}
